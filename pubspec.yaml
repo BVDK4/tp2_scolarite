@@ -1,0 +1,13 @@
+name: scolarite
+description: 'TP 2 - Dart en pratique : gestion de la scolarite (L3 Informatique).'
+version: 1.0.0
+# repository: https://github.com/mon-binome/tp2_scolarite
+
+environment:
+  sdk: ^3.13.7
+
+dependencies:
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
