@@ -1,8 +1,8 @@
 # COMPTE RENDU — TP 2 · Dart en pratique
 
 > **Module** : Programmation mobile Android (Flutter) — L3 Informatique
-> **TP** : 2 — Dart en pratique · **Binôme** : _[Noms et matricules à compléter]_
-> **Dépôt Git** : _[lien du dépôt]_ · **Dernier commit** : `8daee0f` (à mettre à jour après chaque nouveau commit)
+> **TP** : 2 — Dart en pratique · **Binôme** : KONI BETSALEEL ANGE DANIEL (24INF00909S) & BOSSON YVAN (24INF00356B)
+> **Dépôt Git** : [tp2_scolarite](https://github.com/BVDK4/tp2_scolarite.git) · **Dernier commit** : `5149c02` (à mettre à jour après chaque nouveau commit)
 
 ---
 
